@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.5)
+<<<<<<< HEAD
+project(Robot_Practice)
+=======
 project(Robot_Tutorial)
 
+>>>>>>> 447e46226ea2f1b8e63381997b3a7992bc15cf58
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
   set(CMAKE_C_STANDARD 99)
